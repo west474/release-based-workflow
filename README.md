@@ -179,7 +179,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 ### Finalizing releases
@@ -218,7 +218,7 @@ Now let's change our recently automated release from _draft_ to _latest release_
 </details>
 
 <!--Step 6-->
-<details id=6>
+<details id=6 open>
 <summary><h2>Step 6: Commit a hotfix to the release</h2></summary>
 
 Notice that I didn't delete the branch? That's intentional.
